@@ -1,4 +1,4 @@
-package br.com.links_keeper_back_springboot.adapters.out.persistence.repository;
+package br.com.links_keeper_back_springboot.module.user.entity;
 
 import jakarta.persistence.*;
 
